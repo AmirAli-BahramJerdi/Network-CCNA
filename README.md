@@ -23,7 +23,11 @@ Network - CCNA/
 │   ├── scenario-02.pkt
 │   └── README.md
 │
-└── 03-Remote Access (ssh - telnet) /
+├── 03-Remote Access (ssh - telnet)/
+│   ├── scenario-02.pkt
+│   └── README.md
+│
+└── 04-Port Secutity/
     ├── scenario-03.pkt
     └── README.md
 ```
